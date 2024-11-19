@@ -1,0 +1,171 @@
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2551:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2559:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2567:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2575:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2583:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2591:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2599:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2607:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2617:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2625:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2633:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2641:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2649:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2657:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2665:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2673:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2681:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2691:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2699:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2707:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2715:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2723:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2731:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2739:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2749:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2757:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2765:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2773:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2781:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2789:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2797:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2805:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2813:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2821:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2831:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2839:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2847:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2855:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2863:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2871:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2879:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2887:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2897:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2905:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2913:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2921:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2929:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2937:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2947:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2955:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2963:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2971:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2981:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2989:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:2997:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3007:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3015:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3023:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3031:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3041:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3049:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3059:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3067:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3075:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3083:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3091:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3099:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3109:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3117:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3125:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3133:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3141:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3151:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3159:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3167:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3175:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3185:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3193:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3201:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3211:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3219:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3229:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3237:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3245:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3253:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3261:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\EcommercePackage.java:3271:	ConstantsInInterface:	Using constants in interfaces is a bad practice.
+C:\Users\Lenovo\Downloads\Ecommerce\impl\AdminImpl.java:123:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\AdminImpl.java:137:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\AdminImpl.java:152:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\AdminImpl.java:167:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\AdminImpl.java:181:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CategoryImpl.java:267:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CategoryImpl.java:287:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CategoryImpl.java:311:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CategoryImpl.java:335:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CategoryImpl.java:355:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CustomerImpl.java:245:	AvoidReassigningParameters:	Avoid reassigning parameters such as 'msgs'
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CustomerImpl.java:276:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CustomerImpl.java:311:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CustomerImpl.java:325:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CustomerImpl.java:348:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CustomerImpl.java:376:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CustomerImpl.java:403:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\CustomerImpl.java:425:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\DigitalProductImpl.java:124:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\DigitalProductImpl.java:138:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\DigitalProductImpl.java:153:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\DigitalProductImpl.java:168:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\DigitalProductImpl.java:198:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\DownloadableImpl.java:61:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ECommerceWorkflow.java:37:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ECommerceWorkflow.java:38:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ECommerceWorkflow.java:53:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ECommerceWorkflow.java:55:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ECommerceWorkflow.java:59:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\InventoryImpl.java:133:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\InventoryImpl.java:148:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\InventoryImpl.java:163:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\InventoryImpl.java:178:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\InventoryImpl.java:192:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderImpl.java:269:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderImpl.java:291:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderImpl.java:315:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderImpl.java:339:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderImpl.java:359:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderItemImpl.java:210:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderItemImpl.java:229:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderItemImpl.java:250:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderItemImpl.java:271:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\OrderItemImpl.java:289:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PaymentImpl.java:237:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PaymentImpl.java:240:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PaymentImpl.java:253:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PaymentImpl.java:273:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PaymentImpl.java:297:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PaymentImpl.java:321:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PaymentImpl.java:341:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PhysicalProductImpl.java:168:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PhysicalProductImpl.java:184:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PhysicalProductImpl.java:202:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PhysicalProductImpl.java:220:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\PhysicalProductImpl.java:252:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ProductImpl.java:364:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ProductImpl.java:389:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ProductImpl.java:419:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ProductImpl.java:449:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ProductImpl.java:473:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ReviewImpl.java:203:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ReviewImpl.java:221:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ReviewImpl.java:242:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ReviewImpl.java:263:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ReviewImpl.java:281:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ShippableImpl.java:61:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ShoppingCartImpl.java:133:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ShoppingCartImpl.java:169:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ShoppingCartImpl.java:186:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ShoppingCartImpl.java:205:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ShoppingCartImpl.java:223:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\ShoppingCartImpl.java:239:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\UserImpl.java:246:	SystemPrintln:	Usage of System.out/err
+C:\Users\Lenovo\Downloads\Ecommerce\impl\UserImpl.java:272:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\UserImpl.java:292:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\UserImpl.java:316:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\UserImpl.java:340:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\UserImpl.java:360:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\VIPCustomerImpl.java:112:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\VIPCustomerImpl.java:126:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\VIPCustomerImpl.java:141:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\VIPCustomerImpl.java:156:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
+C:\Users\Lenovo\Downloads\Ecommerce\impl\VIPCustomerImpl.java:170:	NonExhaustiveSwitch:	Switch statements or expressions should be exhaustive, add a default case (or missing enum branches)
